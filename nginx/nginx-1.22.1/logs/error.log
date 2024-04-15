@@ -1,0 +1,1 @@
+2023/03/19 00:00:22 [error] 25328#17680: *1 CreateFile() "D:\software\nginx\nginx-1.22.1/html/computeMetadata/v1/instance/machine-type" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /computeMetadata/v1/instance/machine-type?api-version=2017-04-02&format=text HTTP/1.1", host: "metadata.google.internal"
